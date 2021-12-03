@@ -1,4 +1,4 @@
-<img src ="assets/images/banner.png"/>
+<img src ="assets/images/banner.jpg"/>
 
 ## 👶🏽 Iniciante 
 
