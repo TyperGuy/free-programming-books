@@ -3,7 +3,7 @@
 ## HTML & CSS 
 
 | Titulo do Livro | Ano de lanaçamento |  Download |  Idioma |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Introdução a Javascript |2015| <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> |  🇧🇷 | 
 
 ## Javascript
