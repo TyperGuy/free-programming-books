@@ -1,9 +1,6 @@
 <img style =" align:center; width:100%;" src ="assets/images/banner.jpg"/>
 
-## 👶🏽 Iniciante 
-
-
-
+## HTML & CSS 
 
 | Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
