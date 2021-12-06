@@ -4,7 +4,7 @@
 
 | Titulo do Livro | Ano de lanaçamento |  Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Introdução a Javascript | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> | Youtube | 🇧🇷 | 
+| Introdução a Javascript |2015| <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> |  🇧🇷 | 
 | Javascript Essencial | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx">Clique aqui</a> | Youtube | 🇧🇷 |
 | Introdução a Javascript | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Clique aqui</a>| Havard Learning | 🇺🇸 |
 | Javascript Para Iniciantes | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | 🇧🇷 |
