@@ -4,7 +4,7 @@
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Introdução a Javascript |2015|  Orelly| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
+| Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics  |2018|  O’Reilly Media| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
 
 ## Javascript
 
