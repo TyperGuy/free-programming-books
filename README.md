@@ -10,14 +10,14 @@
 | Javascript Para Iniciantes | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | 🇧🇷 |
 | Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube | 🇺🇸 |
 
-## 🧑🏽‍🦱 Intermediário
+## Javascript
 
 
 
 | Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | 🇺🇸 |
-## 👨🏽‍🦱 Avançado
+## C Language
 
 
 
