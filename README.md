@@ -13,7 +13,7 @@
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language  |2020|  O'Reilly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇧🇷 | 
+| JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language  |2020|  O'Reilly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
 
 ## C Language
 
