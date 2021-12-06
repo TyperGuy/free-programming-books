@@ -1,4 +1,4 @@
-<img style" align:center;" src ="assets/images/banner.jpg"/>
+<img style =" align:center;" src ="assets/images/banner.jpg"/>
 
 ## 👶🏽 Iniciante 
 
