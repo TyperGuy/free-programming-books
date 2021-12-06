@@ -4,7 +4,7 @@
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Introdução a Javascript |2015|  Orelly| <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> |  🇧🇷 | 
+| Introdução a Javascript |2015|  Orelly| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
 
 ## Javascript
 
