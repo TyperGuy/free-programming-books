@@ -35,6 +35,15 @@
 | Controlando versões com Git e Github  | 2014 | Casa do Código | <a href="https://book4you.org/book/2730107/7dab9a?dsource=recommend">Clique aqui</a> | 🇧🇷|
 
 
+## Padrões de Projecto
+
+| Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
+| --- | --- | --- | --- | --- |
+
+
+
+
+
 ## 📜 Créditos 
 
 Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos Gratuitos</a>  e  <a href="https://github.com/TyperGuy/free-courses">Free IT Courses</a><br/>
