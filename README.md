@@ -44,7 +44,7 @@
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
 | Código Limpo: Habilidades Práticas do Agile Software   |2009|  Alta Books | <a href="https://book4you.org/book/5207492/cb375e?dsource=recommend">Clique aqui</a>| 🇵🇹| 
-| Clean Code - A Handbook of Agile Software Craftsmanship   |2008|  Alta Books | <a href="https://book4you.org/book/634988/95818e?dsource=recommend">Clique aqui</a>| 🇵🇹 | 
+| Clean Code - A Handbook of Agile Software Craftsmanship   |2008|  Alta Books | <a href="https://book4you.org/book/634988/95818e?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
 
 
 
