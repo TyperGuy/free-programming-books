@@ -2,7 +2,7 @@
 
 ## HTML & CSS 
 
-| Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
+| Titulo do Livro |  Download |  Idioma |
 | --- | --- | --- | --- | --- |
 | Introdução a Javascript | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> | Youtube | 🇧🇷 | 
 | Javascript Essencial | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx">Clique aqui</a> | Youtube | 🇧🇷 |
@@ -14,7 +14,7 @@
 
 
 
-| Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
+| Titulo do Livro |  Download |  Idioma |
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | 🇺🇸 |
 ## C Language
@@ -24,7 +24,7 @@
 
 
 ## Versionamento 
-| Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
+| Titulo do Livro |  Download |  Idioma |
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Git Para iniciantes | Primeiros Passos com o git | <a href="https://www.udemy.com/course/git-para-iniciantes/">Clique aqui</a> | UDEMY | 🇧🇷 |
