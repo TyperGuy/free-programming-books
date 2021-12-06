@@ -16,7 +16,8 @@
 | JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language  |2020|  O'Reilly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
 
 ## C Language
-
+| Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
+| --- | --- | --- | --- | --- |
 | Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇧🇷 | 
 
 
