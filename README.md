@@ -39,7 +39,7 @@
 
 
 
-## Padrões de Projecto
+## Padrões e arquitectura de projecto
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
