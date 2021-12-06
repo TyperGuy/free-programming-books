@@ -25,7 +25,7 @@
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| GitHub for Dummies  |201y|  Wiley | <a href="https://book4you.org/book/5008483/901c35">Clique aqui</a> | 🇺🇲 | 
+| GitHub for Dummies  | 2019 |  Wiley | <a href="https://book4you.org/book/5008483/901c35">Clique aqui</a> | 🇺🇲 | 
 
 
 ## 📜 Créditos 
