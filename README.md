@@ -43,7 +43,7 @@
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+| Código Limpo: Habilidades Práticas do Agile Software   |2009|  Alta Books | <a href="https://book4you.org/book/5207492/cb375e?dsource=recommend">Clique aqui</a>| 🇵🇹| 
 
 
 
