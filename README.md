@@ -60,7 +60,7 @@ Criado por <a href="https://www.linkedin.com/in/rjtony/">RJ Tony</a>  🇦🇴  
 
 ## :busts_in_silhouette: Colaboradores
 
-| [<img src="https://github.com/carlcr.png?size=115" width=115><br><sub>@carlcr</sub>](https://github.com/carlcr) | [<img src="https://github.com/alexxfreitag.png?size=115" width=115><br><sub>@alexxfreitag</sub>](https://github.com/alexxfreitag) |
+| [<img style="border-radius:50%;" src="https://github.com/carlcr.png?size=115" width=115><br><sub>@carlcr</sub>](https://github.com/carlcr) | [<img src="https://github.com/alexxfreitag.png?size=115" width=115><br><sub>@alexxfreitag</sub>](https://github.com/alexxfreitag) |
 | :---: | :---: |
 | [<img src="https://github.com/ViniciusCarvalhoDev.png?size=115" width=115><br><sub>@ViniciusCarvalhoDev</sub>](https://github.com/ViniciusCarvalhoDev) | [<img src="https://github.com/Nurul-GC.png?size=115" width=115><br><sub>@Nurul-GC</sub>](https://github.com/Nurul-GC) |
 
