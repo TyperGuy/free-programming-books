@@ -79,7 +79,7 @@ Muito obrigado a todos os contribuidores, vocês fazem a diferença na vida de p
 
 
 <a style="margin: 0 5px 0;" href="https://github.com/ElianaNeto">
-<img border-radius="100px" width="175" src="https://avatars.githubusercontent.com/u/70918654?v=4">
+<img style = "border-radius:100px;"  src="https://avatars.githubusercontent.com/u/70918654?v=4">
 </a>
 
 
