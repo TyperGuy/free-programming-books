@@ -60,7 +60,7 @@ Criado por <a href="https://www.linkedin.com/in/rjtony/">RJ Tony</a>  🇦🇴  
 
 ## :busts_in_silhouette: Colaboradores
 
-Muito obrigado a todos os contribuidores, vocês fazem a diferença na vida de pelo menos um <b> estudante de programação! </b>
+Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estudante de <b>  programação! </b>
 
 
 
