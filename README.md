@@ -64,11 +64,6 @@ Criado por <a href="https://www.linkedin.com/in/rjtony/">RJ Tony</a>  🇦🇴  
 | :---: | :---: |
 | [<img src="https://github.com/ViniciusCarvalhoDev.png?size=115" width=115><br><sub>@ViniciusCarvalhoDev</sub>](https://github.com/ViniciusCarvalhoDev) | [<img src="https://github.com/Nurul-GC.png?size=115" width=115><br><sub>@Nurul-GC</sub>](https://github.com/Nurul-GC) |
 
-## :bust_in_silhouette: Autores
-
-| [<img src="https://github.com/luteroelavoco.png?size=115" width=115><br><sub>@luteroelavoco</sub>](https://github.com/luteroelavoco) | [<img src="https://github.com/adilsonfuxe.png?size=115" width=115><br><sub>@adilsonfuxe</sub>](https://github.com/adilsonfuxe) |
-| :---: | :---: |
-
 
 
 
