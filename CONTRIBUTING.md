@@ -40,9 +40,5 @@ Exemplo:
 ## Exemplo de Descrição
 
 
-## Organização do repositório
-
-O repositório está organizado da seguinte forma:
-
 
 
