@@ -32,10 +32,8 @@
 
 ## Como fazer os commits
 
-Para uma melhor compreensão, este repositorio usa a convenção de `commits` do <a href="https://www.conventionalcommits.org/en/v1.0.0/"> Convencional Commits</a> [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
-Exemplo:
-
-`git commit -m "Fundamentos de Programação 1:Frequências:Adicionei mais 4 provas de frequências"`
+Para uma melhor compreensão, este repositorio usa a convenção de `commits` do <a href="https://www.conventionalcommits.org/en/v1.0.0/"> Convencional Commits</a>.</br>
+Poderá aprender mais sibre em  [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). 
 
 
 ## Exemplo de Descrição
