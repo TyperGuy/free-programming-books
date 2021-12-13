@@ -28,16 +28,16 @@
 5. Comitar todas as alterações e abrir um **pull request** no projecto principal.
 6. E já está, você é um de nós Agora 🫂
 
-## Estilo dos links
+## Regras para os links
 Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 - Você não pode adicionar encurtadores de links
 - Você não pode adicionar redirecionadores (mesmo que da própria aplicação)
 - Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
-
 Para manter um padrão geral em todos os links, você deve:
-- Adicionar um link direto para o conteúdo
+- Adicionar um link direto para o download do conteudo
 - Adicionar um título condizente ao título do conteúdo
-- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
+- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do livro
+- Adivonar a editora e o autor do livro
 
 ## Como fazer os commits
 
