@@ -38,25 +38,6 @@ Exemplo:
 
 ## Exemplo de Descrição
 
-```
-2º ano 
- 	-> 1º Semestre
-            -> Matemática Discreta 
-            	-> Materiais
-            		-> Ficheiros
-            	-> Exercícios 
-            		-> Ficheiros
-            	-> Projectos
-            		-> Projecto Realizado por ti
-            
-           -> Sistemas Digitais 
-           		-> Materiais
-           			-> Ficheiros
-           		-> Exercícios
-           			-> Ficheiros
-
-```
-
 
 ## Organização do repositório
 
