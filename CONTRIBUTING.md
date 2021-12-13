@@ -25,6 +25,7 @@
 2. Ir para o seu fork, criar uma branch com o seu nome, exemplo: `Abigaelah`.
 3. Selecionar a branch que criou, editar o arquivo README.md " Adcionar a sua contribuição".
 4. Comitar todas as alterações e abrir um **pull request** no projecto principal.
+5. E já está, você é um de nós Agora 🫂
 
 ## Como fazer os commits?
 
