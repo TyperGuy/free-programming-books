@@ -27,7 +27,7 @@
 4. Comitar todas as alterações e abrir um **pull request** no projecto principal.
 5. E já está, você é um de nós Agora 🫂
 
-## Como fazer os commits?
+## Como fazer os commits
 
 O seu commit deve ser da seguinte forma:
 
