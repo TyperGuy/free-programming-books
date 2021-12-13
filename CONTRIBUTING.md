@@ -45,7 +45,6 @@ Para uma melhor compreensão, este repositorio usa a convenção de `commits` do
 Poderá aprender mais sibre em  [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). 
 
 
-## Exemplo de Descrição
 
 
 
