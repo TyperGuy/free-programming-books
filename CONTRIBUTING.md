@@ -3,12 +3,10 @@
 
 # Ficamos muito felizes que queira se juntar a este projecto
 
-## Deseja contribuir?
+### Deseja contribuir?
 
 <details>
 
-<br>
-This is how you dropdown.
 <br><br>
 <pre>
 &lt;details&gt;
