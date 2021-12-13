@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="./assets/images/undraw_developer_activity_bv83.svg" width="300">
-</p>
+<img style =" align:center; width:100%;" src ="assets/images/banner.jpg"/>
 
 # Bem-vindo ao nossa sessão especial para contribuidores
 
