@@ -22,8 +22,8 @@
 ## Passos para contribuir?
 
 1. Fazer um fork do repositório.
-2. Ir para o seu fork, criar uma branch com o seu nome, exemplo: `maria`.
-3. Fazer as alterações que pretende nessa branch, adicionando as provas ou materiais.
+2. Ir para o seu fork, criar uma branch com o seu nome, exemplo: `Abigaelah`.
+3. Selecionar a branch que criou, editar o arquivo README.md " Adcionar a sua contribuição".
 4. Comitar todas as alterações e abrir um **pull request** no projecto principal.
 
 ## Como fazer os commits?
