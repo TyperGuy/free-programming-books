@@ -14,8 +14,6 @@ This is how you dropdown.
 &lt;&#47;details&gt;
 </pre>
 </details>
-
-Se sim, saiba que é bem simples e fácil de o fazer. Ajudar o próximo é das coisas mais gratificantes que existem.
 ## Quem pode contribuir?
 
 Todo mundo pode ser um contribuidor do repositório, mas para isso só tem de atender algumas regras para conseguir contribuir de maneira simples e organizada.
