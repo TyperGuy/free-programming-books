@@ -7,7 +7,9 @@
 
 <details>
   <summary>Quem Pode Contribuir?</summary>
-  <pre>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</pre>
+  <pre>
+    <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
+  </pre>
 </details>
 
 <details>
