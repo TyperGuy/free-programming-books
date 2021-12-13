@@ -7,7 +7,7 @@
 
 <details>
   <summary>Quem Pode Contribuir?</summary>
-  <pre style="margin-left:5px;">
+  <pre style="margin-left:15px;">
     <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
   </pre>
 </details>
