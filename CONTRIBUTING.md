@@ -3,7 +3,7 @@
 
 # Ficamos muito felizes que queira se juntar a este projecto
 
-### Deseja contribuir?
+## Deseja contribuir?
 
 <details>
   <summary>Quem Pode Contribuir?</summary>
@@ -13,7 +13,7 @@
 </details>
   
 <details>
-  <summary>Como contribuir?</summary>
+  <summary>Quais São as regras para contribuidores?</summary>
   <pre style="margin-left:15px;">
     <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
   </pre>
