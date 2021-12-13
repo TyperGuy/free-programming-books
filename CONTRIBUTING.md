@@ -11,6 +11,13 @@
     <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
   </pre>
 </details>
+  
+<details>
+  <summary>Como contribuir?</summary>
+  <pre style="margin-left:15px;">
+    <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
+  </pre>
+</details>  
 
 <details>
    Como Contribuir
