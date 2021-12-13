@@ -19,7 +19,7 @@
   </pre>
 </details>  
 
-## Passos para contribuir?
+## Passos para contribuir
 
 1. Fazer um fork do repositório.
 2. Ir para o seu fork, criar uma branch com o seu nome, exemplo: `Abigaelah`.
