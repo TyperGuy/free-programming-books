@@ -19,14 +19,6 @@
   </pre>
 </details>  
 
-<details>
-   Como Contribuir
-
-</details>
-## Quem pode contribuir?
-
-Todo mundo pode ser um contribuidor do repositório, mas para isso só tem de atender algumas regras para conseguir contribuir de maneira simples e organizada.
-
 ## Passos para contribuir?
 
 1. Fazer um fork do repositório.
