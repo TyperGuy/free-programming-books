@@ -6,8 +6,6 @@
 ### Deseja contribuir?
 
 <details>
-
-<br><br>
 <pre>
 &lt;details&gt;
 &lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
