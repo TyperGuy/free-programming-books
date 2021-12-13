@@ -1,7 +1,7 @@
 
 <img style =" align:center; width:100%;" src ="assets/images/banner.jpg"/>
 
-# Bem-vindo ao nossa sessão especial para contribuidores
+# Ficamos muito felizes que queira se juntar a este projecto
 
 ## Deseja contribuir?
 
