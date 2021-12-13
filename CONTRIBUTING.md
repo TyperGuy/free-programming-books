@@ -17,7 +17,7 @@
   <pre style="margin-left:15px;">
     <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
   </pre>
-</details>  
+</details>   
 
 ## Passos para contribuir
 `OBS :Antes de tudo, tenha a certeza que o recurso é realmente gratuito!`
@@ -28,7 +28,16 @@
 5. Comitar todas as alterações e abrir um **pull request** no projecto principal.
 6. E já está, você é um de nós Agora 🫂
 
+## Estilo dos links
+Um link precisa ser adicionado em sua forma mais autêntica, isso é:
+- Você não pode adicionar encurtadores de links
+- Você não pode adicionar redirecionadores (mesmo que da própria aplicação)
+- Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
 
+Para manter um padrão geral em todos os links, você deve:
+- Adicionar um link direto para o conteúdo
+- Adicionar um título condizente ao título do conteúdo
+- Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
 
 ## Como fazer os commits
 
