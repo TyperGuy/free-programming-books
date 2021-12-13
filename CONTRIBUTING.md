@@ -6,6 +6,11 @@
 ### Deseja contribuir?
 
 <details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
+<details>
    Como Contribuir
 <pre>
 &lt;details&gt;
@@ -45,12 +50,4 @@ Exemplo:
 O repositório está organizado da seguinte forma:
 
 
-1. Ano lectivo (1º Ano, 2º Ano, 3º Ano, ...), o a da palavra Ano deve ser maiúsculo.
-   1. Descrição do Semestre (1º Semestre, 2º Semestre), sendo apenas 2 semestres a serem criados e a letra S de Semestre deve ser maiúscula.
-      1. Descrição da disciplina (Fundamentos de Programação 1), o nome da cadeira deve ser descrito de forma completa, sem abreviações.
-         1. Descrição do tipo de material, podendo ser:
-            - Frequências
-            - Exames
-            - Recursos
-            - Materiais
 
