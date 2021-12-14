@@ -24,7 +24,7 @@
 1. Fazer um fork do repositório.
 2. Ir para o seu fork, criar uma branch com o seu nome, exemplo: `Abigaelah`.
 3. Selecionar a branch que criou, editar o arquivo README.md .
-4. Adicione os links de acordo com o estilo padronizado neste guia.
+4. Adicione os links de acordo com o estilo padronizado neste guia, mas antes disso certifique-se que não exista já um link para este conteudo.
 5. Comitar todas as alterações e abrir um **pull request** no projecto principal.
 6. E já está, você é um de nós Agora 🫂
 
