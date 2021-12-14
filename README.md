@@ -1,5 +1,9 @@
 <img style =" align:center; width:100%;" src ="assets/images/banner.jpg"/>
 
+ 💻 ⌨️ 👩🏼‍💻 🧑🏼‍💻 👨🏼‍💻 Uma lista com livros recomendados pelos melhores profissionais de programação 💻 ⌨️ 📔 📒 📕 📗 📘 📙 
+ <hr/>
+ 
+
 ## HTML & CSS 
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
