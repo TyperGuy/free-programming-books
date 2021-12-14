@@ -15,7 +15,11 @@
 <details>
   <summary>Quais São as regras para contribuidores?</summary>
   <pre style="margin-left:15px;">
-    <p> Todo Mundo que se sente capaz de agregar algum valor ao projecto, está convidado a fazer parte!</>
+      1. Não são permitidas ofenças ou outro tipo de conteudo abusivo
+      2. Links fora do contexto não são aceites
+      3. Todos somos iguais, então esteja avontade em contribuir com o que tem
+      
+      
   </pre>
 </details>   
 
