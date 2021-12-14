@@ -18,7 +18,8 @@
       1. Não são permitidas ofenças ou outro tipo de conteudo abusivo
       2. Links fora do contexto não são aceites
       3. Todos somos iguais, então esteja avontade em contribuir com o que tem
-      
+      5. O  repositorio não tem nacionalidade, cor ou gênero, então todo mundo é bem vindo
+      6. Viva a vida com amor!!!!
       
   </pre>
 </details>   
