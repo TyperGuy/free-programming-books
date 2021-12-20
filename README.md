@@ -23,7 +23,7 @@
 
 |  Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Learn Javascript Visually   |2020|  Indisponivrl| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
+| Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
 
 
 
