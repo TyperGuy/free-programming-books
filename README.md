@@ -9,6 +9,11 @@
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
 | Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics  |2018|  O’Reilly Media| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
+https://book4you.org/book/3705299/e48774?dsource=recommend
+
+
+
+
 
 ## Javascript
 
