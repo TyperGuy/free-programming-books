@@ -33,7 +33,7 @@
 
 |  Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-| Smashing Magazine |2020|  O´Relly Media| <a href="https://book4you.org/book/6100095/453eb5?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
+|  |2020|  Smashing Magazine| <a href="https://book4you.org/book/6100095/453eb5?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | Eloquent JavaScript: A Modern Introduction to Programming, 3rd Edition   |2019|  No Starch Press| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 
