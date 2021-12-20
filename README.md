@@ -25,6 +25,7 @@
 | --- | --- | --- | --- | --- |
 | Javascript the definitive Guide   |2020|  O´Relly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
 | Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
+| Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 
 
 
