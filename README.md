@@ -44,8 +44,8 @@
 ## Typescript
 
 
-|  Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
-| --- | --- | --- | --- | --- |
+|  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
+| --- | --- | --- | --- | --- | --- |
 | TypeScript in 50 Lessons  |2020|  Smashing Magazine| <a href="https://book4you.org/book/6100095/453eb5?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | Programming TypeScript |2019|  O'Relly Meidia| <a href="https://book4you.org/book/5239794/3d670f?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | Efective Typescript  |2019|  O’Reilly Media| <a href="https://book4you.org/book/5280513/c622df?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
@@ -110,7 +110,7 @@ Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estu
 </br>
 <a href ="https://github.com/TyperGuy/free-programming-books/blob/main/CONTRIBUTING.md">Quero Contribuir</a>
 
-<img src="https://covers.zlibcdn2.com/covers299/books/c0/7f/b0/c07fb0e6149ebfc1c37814e3a5870976.jpg"/>
+
 
 ## ⚖ Licença
 
