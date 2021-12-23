@@ -64,6 +64,18 @@
 | Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
 | Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
 | Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+| Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
+| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+
+| Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
+| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+
+| Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
+| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+
 
 
 
