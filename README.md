@@ -110,7 +110,7 @@ Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estu
 </br>
 <a href ="https://github.com/TyperGuy/free-programming-books/blob/main/CONTRIBUTING.md">Quero Contribuir</a>
 
-
+<img src="https://covers.zlibcdn2.com/covers299/books/c0/7f/b0/c07fb0e6149ebfc1c37814e3a5870976.jpg"/>
 
 ## ⚖ Licença
 
