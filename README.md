@@ -11,6 +11,7 @@
 | Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics  |2018|  O’Reilly Media| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
 | CSS (Cascading Style Sheets) Visual Dictionary  |2018| Learning Curve Books| <a href="https://book4you.org/book/3705299/e48774?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 
+https://book4you.org/book/5599169/23d11d?dsource=recommend
 
 
 
