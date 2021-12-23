@@ -70,6 +70,8 @@
 
 
 
+https://www.patterns.dev/
+
 
 
 
@@ -95,7 +97,6 @@ Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estu
 </a>
 </br>
 <a href ="https://github.com/TyperGuy/free-programming-books/blob/main/CONTRIBUTING.md">Quero Contribuir</a>
-
 
 
 
