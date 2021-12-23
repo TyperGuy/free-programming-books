@@ -15,8 +15,6 @@
 | Grid Layout in CSS: Interface Layout for the Web   |2016| SO’Reilly Media| <a href="https://book4you.org/book/2702208/0872e8?dsource=recommend">Clique aqui</a>| 🇺🇸 | 
 | Flexbox in CSS   |2017| SO’Reilly Media| <a href="https://book4you.org/book/5969752/cf6c35?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 
-| --- | --- | --- | --- | --- |
-
 | Basic Visual Formatting in CSS: Layout Fundamentals in CSS   |2015| SO’Reilly Media|<a href="https://book4you.org/book/2578600/10c1bf?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 
 |CSS Secrets: Better Solutions to Everyday Web Design Problems  |2015| SO’Reilly Media| <a href="https://book4you.org/book/257595/879960?dsource=recommend">Clique aqui</a> | 🇺🇸 |
