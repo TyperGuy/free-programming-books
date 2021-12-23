@@ -13,6 +13,7 @@
 | Web Development for beginners: Learn HTML/CSS/Javascript step by step with this Coding Guide, Programming Guide for beginners, Website development  |2020| White Betl Mastery| <a href="https://book4you.org/book/5599169/23d11d?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | CSS Grid Layout: 5 Practical Projects  |2018| SitePoint| <a href="https://book4you.org/book/3629870/178cab?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | Grid Layout in CSS: Interface Layout for the Web   |2016| SO’Reilly Media| <a href="https://book4you.org/book/2702208/0872e8?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
+| Basic Visual Formatting in CSS: Layout Fundamentals in CSS   |2016| SO’Reilly Media| <a href="https://book4you.org/book/2702208/0872e8?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 
 
 
