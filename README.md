@@ -18,7 +18,7 @@
 |Transitions and Animations in CSS: Adding Motion with CSS  |2016| SO’Reilly Media| <a href="https://book4you.org/book/2702926/b1207a?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 | Transforms in CSS: Revamp the Way You Design |2015| SO’Reilly Media| <a href="https://book4you.org/book/2578492/dde968?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 | Positioning in CSS: Layout Enhancements for the Web  |2016| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
-
+| Positioning in CSS: Layout Enhancements for the Web  |2016| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 
 
 
