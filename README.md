@@ -12,8 +12,8 @@
 | CSS (Cascading Style Sheets) Visual Dictionary  |2018| Learning Curve Books| <a href="https://book4you.org/book/3705299/e48774?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | Web Development for beginners: Learn HTML/CSS/Javascript step by step with this Coding Guide, Programming Guide for beginners, Website development  |2020| White Betl Mastery| <a href="https://book4you.org/book/5599169/23d11d?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | CSS Grid Layout: 5 Practical Projects  |2018| SitePoint| <a href="https://book4you.org/book/3629870/178cab?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
-| CSS Grid Layout: 5 Practical Projects  |2018| SitePoint| <a href="https://book4you.org/book/3629870/178cab?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
-https://book4you.org/book/2702208/0872e8?dsource=recommend
+| CSS Grid Layout: 5 Practical Projects  |2018| SitePoint| <a href="https://book4you.org/book/2702208/0872e8?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
+
 
 
 
