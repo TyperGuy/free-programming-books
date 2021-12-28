@@ -21,7 +21,6 @@
 
 | Positioning in CSS: Layout Enhancements for the Web  |2016| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 
-| Creating Web Animations: Bringing Your UIs to Life  |2017| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 
 
 
