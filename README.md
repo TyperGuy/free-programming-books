@@ -5,7 +5,7 @@
  
 
 ## HTML & CSS 
-<div style="width:100%; display:flex;flex-diretion:row; justify-content:space-between;"></>
+<div style="width:100%; display:flex;flex-diretion:row; justify-content:space-between;"></div>
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
