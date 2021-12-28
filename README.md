@@ -6,7 +6,9 @@
 
 ## HTML & CSS 
 <hr/>
-<div style="width:100%; display:flex;flex-diretion:row; justify-content:space-between; padding:30px;"><span>Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics</span><span>2018<span></div>
+<div style="width:100%; display:flex;flex-diretion:row; justify-content:space-between; padding:30px;">
+ | --- | --- | --- | --- | --- |
+ <span>Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics</span><span>2018<span></div>
  <hr/>
 
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
