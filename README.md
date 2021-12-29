@@ -55,7 +55,7 @@
 | --- | --- | --- | --- | --- | --- |
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/c0/7f/b0/c07fb0e6149ebfc1c37814e3a5870976.jpg"/> |TypeScript in 50 Lessons  |2020|  Smashing Magazine| <a href="https://book4you.org/book/6100095/453eb5?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/2b/e0/8c/2be08c4b4285230bd82d4ebad3974024.jpg"/>| Programming TypeScript |2019|  O'Relly Meidia| <a href="https://book4you.org/book/5239794/3d670f?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
-| Efective Typescript  |2019|  O’Reilly Media| <a href="https://book4you.org/book/5280513/c622df?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
+|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/2b/e0/8c/2be08c4b4285230bd82d4ebad3974024.jpg"/>| Efective Typescript  |2019|  O’Reilly Media| <a href="https://book4you.org/book/5280513/c622df?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 https://covers.zlibcdn2.com/covers/books/da/94/4f/da944ffc960779a17ae7f773a64bcf65.jpg
 
 
