@@ -68,8 +68,8 @@
 
 ## Versionamento 
 
-| Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
-| --- | --- | --- | --- | --- |
+|  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
+| --- | --- | --- | --- | --- | --- |
 | GitHub for Dummies  | 2019 |  Wiley | <a href="https://book4you.org/book/5008483/901c35">Clique aqui</a> | 🇺🇲 | 
 | Controlando versões com Git e Github  | 2014 | Casa do Código | <a href="https://book4you.org/book/2730107/7dab9a?dsource=recommend">Clique aqui</a> | 🇧🇷|
 
