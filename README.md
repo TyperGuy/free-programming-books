@@ -41,7 +41,7 @@
 
 |  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- | --- |
-| Javascript the definitive Guide   |2020|  O´Relly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
+| https://covers.zlibcdn2.com/covers299/books/aa/16/cf/aa16cfcab9f4b980b01675ec7ea75820.jpg | Javascript the definitive Guide   |2020|  O´Relly Media| <a href="https://book4you.org/book/5533416/34944c">Clique aqui</a> | 🇺🇲 | 
 | Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | Eloquent JavaScript: A Modern Introduction to Programming, 3rd Edition   |2019|  No Starch Press| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 | JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron  |2020|  O'Reilly Media| <a href="https://book4you.org/book/5351763/959436?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
