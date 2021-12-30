@@ -71,7 +71,7 @@
 |  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- | --- |
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/ba/9b/cf/ba9bcf0dc89defd23f9ba2e82f66fc8d.jpg"/>| GitHub for Dummies  | 2019 |  Wiley | <a href="https://book4you.org/book/5008483/901c35">Clique aqui</a> | 🇺🇲 | 
-| Controlando versões com Git e Github  | 2014 | Casa do Código | <a href="https://book4you.org/book/2730107/7dab9a?dsource=recommend">Clique aqui</a> | 🇧🇷|
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/ba/9b/cf/ba9bcf0dc89defd23f9ba2e82f66fc8d.jpg"/>|| Controlando versões com Git e Github  | 2014 | Casa do Código | <a href="https://book4you.org/book/2730107/7dab9a?dsource=recommend">Clique aqui</a> | 🇧🇷|
 
 
 
