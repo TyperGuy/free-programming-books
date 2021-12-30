@@ -64,7 +64,7 @@
 | --- | --- | --- | --- | --- |
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/47/51/60/475160c5b41800dc4a66df57a7dbd017.jpg"/> | Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/63/9a/7b/639a7b4487723d5a3a4aa3f16991d63c.jpg"/>| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
-|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/47/51/60/475160c5b41800dc4a66df57a7dbd017.jpg"/>| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/36/3e/9f/363e9fe7bcb3dea9efcfa84767f29421.jpg"/>| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
 
 ## Versionamento 
 
