@@ -20,8 +20,8 @@
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/38/63/e5/3863e50b243ed5ee8066701d1e17d80e.jpg"/>|CSS Secrets: Better Solutions to Everyday Web Design Problems  |2015| SO’Reilly Media| <a href="https://book4you.org/book/257595/879960?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/79/cb/6c/79cb6c6bfacf2ae5cac2d5789cbf277e.jpg"/>|Transitions and Animations in CSS: Adding Motion with CSS  |2016| SO’Reilly Media| <a href="https://book4you.org/book/2702926/b1207a?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/76/1f/ac/761facde025d082fac25dd38a5da3768.jpg"/>| Transforms in CSS: Revamp the Way You Design |2015| SO’Reilly Media| <a href="https://book4you.org/book/2578492/dde968?dsource=recommend">Clique aqui</a> | 🇺🇸 |
-| Positioning in CSS: Layout Enhancements for the Web  |2016| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
-| Creating Web Animations: Bringing Your UIs to Life  |2017| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/5f/65/e3/5f65e3ebe986ce831559e364770a63cf.jpg"/>| Positioning in CSS: Layout Enhancements for the Web  |2016| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/5f/65/e3/5f65e3ebe986ce831559e364770a63cf.jpg"/>| Creating Web Animations: Bringing Your UIs to Life  |2017| SO’Reilly Media| <a href="https://book4you.org/book/3386792/0ed21e?dsource=recommend">Clique aqui</a> | 🇺🇸 |
 
 
 
