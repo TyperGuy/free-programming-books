@@ -81,10 +81,9 @@
 |  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- | --- |
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/88/7a/3f/887a3fbf9fdb69ab5f1604f7b2a680e8.jpg"/>| Código Limpo: Habilidades Práticas do Agile Software   |2009|  Alta Books | <a href="https://book4you.org/book/5207492/cb375e?dsource=recommend">Clique aqui</a>| 🇵🇹| 
-| Clean Code - A Handbook of Agile Software Craftsmanship   |2008|  Prentice Hall | <a href="https://book4you.org/book/634988/95818e?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/83/8c/c6/838cc6ac8cb0d8ddb98fdb1ae0c8a443.jpg"/>| Clean Code - A Handbook of Agile Software Craftsmanship   |2008|  Prentice Hall | <a href="https://book4you.org/book/634988/95818e?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
 | The clean coder : a code of conduct for professional programmers |2008|  Prentice Hall | <a href="https://book4you.org/book/2863273/b44953?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
 | Improve how you architect webapps |2021|  Undefined | <a href="https://www.patterns.dev/">Clique aqui</a>| 🇺🇲 | 
-
 
 
 
