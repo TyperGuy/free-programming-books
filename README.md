@@ -62,9 +62,9 @@
 ## C Language & Lógica de programação
 | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- |
-|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/c0/7f/b0/c07fb0e6149ebfc1c37814e3a5870976.jpg"/> | Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
-| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
-| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/47/51/60/475160c5b41800dc4a66df57a7dbd017.jpg"/> | Deitel, C Como programar  |2011|  Deitel| <a href="https://book4you.org/book/2692639/423b57">Clique aqui</a> | 🇵🇹 | 
+|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/47/51/60/475160c5b41800dc4a66df57a7dbd017.jpg"/>| Introdução à programação em C: Os primeiros passos de um desenvolvedor |2015|  Casa do Código| <a href="https://book4you.org/book/2726642/8b683b?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
+|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/47/51/60/475160c5b41800dc4a66df57a7dbd017.jpg"/>| Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML  |2014|  Casa do código | <a href="https://book4you.org/book/2730140/e8521c?dsource=recommend">Clique aqui</a> | 🇧🇷 | 
 
 ## Versionamento 
 
