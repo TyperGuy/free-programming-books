@@ -7,9 +7,10 @@
 ## HTML & CSS 
 
 
+
 |  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
 | --- | --- | --- | --- | --- | --- |
-| Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics  |2018|  O’Reilly Media| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/2c/ad/8e/2cad8eb632e7aae4d523d17731fa58d2.jpg"/>| Learning Web Design - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics  |2018|  O’Reilly Media| <a href="https://book4you.org/book/3556226/072a01">Clique aqui</a> | 🇺🇸 | 
 | CSS (Cascading Style Sheets) Visual Dictionary  |2018| Learning Curve Books| <a href="https://book4you.org/book/3705299/e48774?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | Web Development for beginners: Learn HTML/CSS/Javascript step by step with this Coding Guide, Programming Guide for beginners, Website development  |2020| White Betl Mastery| <a href="https://book4you.org/book/5599169/23d11d?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
 | CSS Grid Layout: 5 Practical Projects  |2018| SitePoint| <a href="https://book4you.org/book/3629870/178cab?dsource=recommend">Clique aqui</a> | 🇺🇸 | 
