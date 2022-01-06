@@ -47,7 +47,7 @@
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/19/4a/de/194ade798f439c6944bd1f4979d87181.jpg"/> | Learn Javascript Visually   |Indisponivel|  Indisponivel| <a href="https://book4you.org/book/2828350/8b0e95?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/c8/62/39/c862395eb0ecba23a8f51c8edf724bbb.jpg"/>| Eloquent JavaScript: A Modern Introduction to Programming, 3rd Edition   |2019|  No Starch Press| <a href="https://b-ok.global/book/3706481/5abcb5?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 |<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/3e/8c/3c/3e8c3c656e1ac43106f3a77904737284.jpeg"/>| JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron  |2020|  O'Reilly Media| <a href="https://book4you.org/book/5351763/959436?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
-|<img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/3e/8c/3c/3e8c3c656e1ac43106f3a77904737284.jpeg"/>|Estruturas de dados e algoritmos com JavaScript |2019| Novatec Editora| <a href="https://book4you.org/book/5351763/959436?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
+|<img style="width:70px;" src=https://covers.zlibcdn2.com/covers299/books/fc/a3/d0/fca3d0d68d80356f25cdffc74612557f.jpg"/>|Estruturas de dados e algoritmos com JavaScript |2019| Novatec Editora| <a href="https://book4you.org/book/5351763/959436?dsource=recommend">Clique aqui</a> | 🇺🇲 | 
 
 
 
