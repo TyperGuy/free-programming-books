@@ -110,17 +110,16 @@ Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estu
 
 
 
-
-
-<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
-<img width="100px" src="https://avatars.githubusercontent.com/u/60783000?v=4">
-</a>
-</br>
+<div>
 
 <a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
 <img width="100px" src="https://avatars.githubusercontent.com/u/60783000?v=4">
 </a>
-</br>
+
+<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
+<img width="100px" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+</a>
+</div>
 
 <a href ="https://github.com/TyperGuy/free-programming-books/blob/main/CONTRIBUTING.md">Quero Contribuir</a>
 
