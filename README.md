@@ -92,6 +92,18 @@
 | <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/fc/1c/13/fc1c1335a44e839c461387dd45b61425.jpg"/>| Padrões de Projetos: Soluções Reutilizáveis  |2000| Bookman, Ttg Gn | <a href="https://pt.b-ok.africa/book/5681447/0b4209">Clique aqui</a>| 🇵🇹 | 
 
 
+## Devops e computação em nuvem
+
+|  Imagem de Capa | Titulo do Livro | Ano de lanaçamento | Publicadora | Download |  Idioma |
+| --- | --- | --- | --- | --- | --- |
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/88/7a/3f/887a3fbf9fdb69ab5f1604f7b2a680e8.jpg"/>| Código Limpo: Habilidades Práticas do Agile Software   |2009|  Alta Books | <a href="https://book4you.org/book/5207492/cb375e?dsource=recommend">Clique aqui</a>| 🇵🇹| 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/83/8c/c6/838cc6ac8cb0d8ddb98fdb1ae0c8a443.jpg"/>| Clean Code - A Handbook of Agile Software Craftsmanship   |2008|  Prentice Hall | <a href="https://book4you.org/book/634988/95818e?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/e2/d8/b6/e2d8b636b8673c10456e9129f534e745.jpg"/>| The clean coder : a code of conduct for professional programmers |2008|  Prentice Hall | <a href="https://book4you.org/book/2863273/b44953?dsource=recommend">Clique aqui</a>| 🇺🇲 | 
+| <img style="width:70px;" src="https://www.patterns.dev/img/remote/Z29ihHu-640w.avif"/>| Improve how you architect webapps |2021|  Undefined | <a href="https://www.patterns.dev/book/">Clique aqui</a>| 🇺🇲 | 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/0b/c6/96/0bc6969ad1129eed85c07a20d25a8e42.jpg"/>| Arquitectura Limpa |2019| Alta Books | <a href="https://book4you.org/book/5457956/accf67?dsource=recommend">Clique aqui</a>| 🇵🇹 | 
+| <img style="width:70px;" src="https://covers.zlibcdn2.com/covers299/books/fc/1c/13/fc1c1335a44e839c461387dd45b61425.jpg"/>| Padrões de Projetos: Soluções Reutilizáveis  |2000| Bookman, Ttg Gn | <a href="https://pt.b-ok.africa/book/5681447/0b4209">Clique aqui</a>| 🇵🇹 | 
+
+
 
 
 
